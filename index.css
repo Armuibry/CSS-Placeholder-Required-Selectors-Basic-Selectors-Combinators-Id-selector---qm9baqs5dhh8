@@ -102,13 +102,6 @@ section{
     text-align: center;
     text-transform: uppercase;
 }
-.skills-title{
-    font-size: 0.75rem;
-    margin: 1rem 0.5rem;
-    color: white;
-    text-align: center;
-    text-transform: uppercase;
-}
 .skill-item{
     display: block;
 }
