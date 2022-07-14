@@ -35,7 +35,7 @@ section{
     border-radius: 30%;
 }
 .name{
-    font-size: 1.2red;
+    font-size: 1.2rem;
     font-weight: 700;
     text-align: center;
     letter-spacing: 0.02px;
@@ -129,6 +129,8 @@ section{
 @media screen and (max-width: 673px) {
     .main-content{
         grid-template-columns: repeat(1,1fr);
+        min-height: 100px;
+        width: 90%;
     }
     .left-section{
         width: 100%;
@@ -150,3 +152,4 @@ section{
         }
     
 }
+ 
